@@ -8,14 +8,9 @@
 "groups": 
 [
 {
-"name": "Megalista",
-"image": "https://i.postimg.cc/j5QdmJNW/L5RUMsy.png",
-"url": "https://megalista.vercel.app/megalista.w3u"
-},
-{
-"name": "Group_ChukyHood",
-"image": "https://i.postimg.cc/hvmF6kN2/MLPLA-CALVO.jpg",
-"url": "https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u"
+"name": "Af1cionados",
+"image": "https://i.postimg.cc/CxsR9XgM/Rinnegan.png",
+"url": "https://af1c1onados.vercel.app/af1cionados.w3u"
 },
 {
 "name": "ChukyDeporte",
@@ -23,14 +18,9 @@
 "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
 },
 {
-"name": "ChukyCine",
-"image": "https://i.postimg.cc/6pm0488G/chuky.jpg",
-"url": "https://pastebin.com/raw/fLchA7yv"
-},
-{
-"name": "Af1cionados",
-"image": "https://i.postimg.cc/CxsR9XgM/Rinnegan.png",
-"url": "https://af1c1onados.vercel.app/af1cionados.w3u"
+"name": "TINWORLD",
+"image": "https://i.postimg.cc/MZ0Xngn7/IMG-20241111-191943-016-removebg-preview.png",
+"url": "https://tinworld.vercel.app/Tinworld.w3u"
 },
 {
 "name": "TV_para_todos",
@@ -43,14 +33,14 @@
 "url": "https://raw.githubusercontent.com/Jayoir/1/main/index"
 },
 {
+"name": "Group_ChukyHood",
+"image": "https://i.postimg.cc/hvmF6kN2/MLPLA-CALVO.jpg",
+"url": "https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u"
+},
+{
 "name": "IPTV_España_Premium",
 "image": "https://i.postimg.cc/MpHk8jkc/9291928.png",
 "url": "http://bit.ly/josepimbatv"
-},
-{
-"name": "TINWORLD",
-"image": "https://i.postimg.cc/MZ0Xngn7/IMG-20241111-191943-016-removebg-preview.png",
-"url": "https://tinworld.vercel.app/Tinworld.w3u"
 },
 {
 "name": "ElSupremo",
@@ -61,6 +51,16 @@
 "name": "IPT-Adictos",
 "image": "https://i.postimg.cc/6589KSxL/Pic-Profile-SV.png",
 "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv"
+},
+{
+"name": "Megalista",
+"image": "https://i.postimg.cc/j5QdmJNW/L5RUMsy.png",
+"url": "https://megalista.vercel.app/megalista.w3u"
+},
+{
+"name": "ChukyCine",
+"image": "https://i.postimg.cc/6pm0488G/chuky.jpg",
+"url": "https://pastebin.com/raw/fLchA7yv"
 },
 {
 "name": "TDTChannels",
