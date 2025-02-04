@@ -69,22 +69,22 @@
 },
 {
 "name": "ElCano_deportes",
-"image": "https://e7.pngegg.com/pngimages/20/721/png-clipart-logo-brand-nfl-sticker-nfl-logo-text-label.png",
+"image": "https://i.postimg.cc/mkb0mm7n/images-1.jpg",
 "url": "https://actualsebastian.vercel.app/base.txt"
 },
 {
 "name": "Peliculas_Acestream_ElCano",
-"image": "https://e7.pngegg.com/pngimages/20/721/png-clipart-logo-brand-nfl-sticker-nfl-logo-text-label.png",
+"image": "https://i.postimg.cc/zBNMfx2f/icono-carrete-pelicula-24877-81727.jpg",
 "url": "https://elcano-kappa-sage.vercel.app/PelisAcestream.txt"
 },
 {
 "name": "Acestream_Pluto_TDT_ElCano",
-"image": "https://e7.pngegg.com/pngimages/20/721/png-clipart-logo-brand-nfl-sticker-nfl-logo-text-label.png",
+"image": "https://i.postimg.cc/x8xFtnfk/icono-television-plateado-335552-999.jpg",
 "url": "https://elcano-kappa-sage.vercel.app/IptvElcano.m3u"
 },
 {
 "name": "Public_IPTV",
-"image": "https://e7.pngegg.com/pngimages/20/721/png-clipart-logo-brand-nfl-sticker-nfl-logo-text-label.png",
+"image": "https://i.postimg.cc/vZ6SLJpB/icono-circulo-amarillo-tv-648765-211.jpg",
 "url": "https://iptv-org.github.io/iptv/index.m3u"
 }
 ]
